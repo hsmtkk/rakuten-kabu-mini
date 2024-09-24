@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pypdf = "*"
+langchain = "*"
+langchain-community = "*"
+langchain-openai = "*"
 
 [dev-packages]
 
